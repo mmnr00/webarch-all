@@ -10,6 +10,14 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
+ *= require plugins/jquery-ricksaw-chart/css/rickshaw
+ *= require plugins/jquery-morris-chart/css/morris
+ *= require plugins/pace/pace-theme-flash
+ *= require plugins/bootstrapv3/css/bootstrap.min
+ *= require plugins/bootstrapv3/css/bootstrap-theme.min
+ *= require plugins/animate.min
+ *= require plugins/jquery-scrollbar/jquery.scrollbar
+ *= require webarch/css/webarch
  *= require_tree .
  *= require_self
  */
